@@ -6,7 +6,5 @@
   has entered your house and capture his photo  by using camera
   shield from 1Sheeld.
   
-  This project was done in Arduino and it focus more on the security by using multiple components 
-  that provides a base idea for a biger projact that involve the Security of someone house and track 
-  how get into the house. 
+  This project was done in Arduino and it focus more on the security by using multiple components that provides a base idea for a bigger project that involve the Security of someone house and track how get into the house.
   
